@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+NgViewTool::Renderer.copyright 'Clement Ng', 'All rights reserved'
+
+```
 
 ## Development
 
