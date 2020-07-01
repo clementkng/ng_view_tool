@@ -1,6 +1,6 @@
 # NgViewTool
 
-> Various view specific methods for applications I use.
+> Various view specific methods for applications I use. Trying out writing new Gems.
 
 ## Installation
 
